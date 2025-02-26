@@ -1,2 +1,2 @@
-## blog for fish to publish something
+## Fish's blog
 will be update later
